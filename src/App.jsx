@@ -3,8 +3,9 @@ import Routers from "./Routes/Routers.jsx";
 import Header from "./components/Header";
 function App() {
   return (
-    <div className=" flex">
+    <div className=" flex h-full border relative">
       <Header />
+
       <Routers />
     </div>
   );

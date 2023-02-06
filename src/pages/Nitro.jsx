@@ -33,20 +33,6 @@ const Nitro = () => {
               Subscribe
             </Button>
           </Card>
-          <Card className="border-white border-2 min-h-[21rem] ">
-            <div>
-              <h1>Nitro</h1>
-              <h2>basic</h2>
-              <h2>US$2.99 /month</h2>
-              <p>50 MB uploads</p>
-              <p>Custom emojis anywhere</p>
-              <p>Special Nitro badge on your profile</p>
-              <p>Access to more Activities</p>
-              <p>2 Server Boosts</p>
-              <p>Custom profiles and more!</p>
-            </div>
-            <Button className="bg-white text-[#5343ca]">Subscribe</Button>
-          </Card>
         </div>
       </section>
     </div>

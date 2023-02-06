@@ -7,6 +7,7 @@ import MessageRequests from "../pages/MessageRequests";
 const Routers = () => {
   return (
     <Routes>
+      <Route element={<Friends />} path="/" />
       <Route element={<Friends />} path="/friends" />
       <Route element={<Nitro />} path="/nitro" />
       <Route element={<MessageRequests />} path="/message" />
